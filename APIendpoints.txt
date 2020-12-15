@@ -1,5 +1,5 @@
-POST - https://so11i51ot4.execute-api.us-east-1.amazonaws.com/prod/notes
-GET - https://so11i51ot4.execute-api.us-east-1.amazonaws.com/prod/notes/{id}
-GET - https://so11i51ot4.execute-api.us-east-1.amazonaws.com/prod/notes
-PUT - https://so11i51ot4.execute-api.us-east-1.amazonaws.com/prod/notes/{id}
-DELETE - https://so11i51ot4.execute-api.us-east-1.amazonaws.com/prod/notes/{id}
+  POST - https://nlz9lkkxcb.execute-api.us-east-2.amazonaws.com/prod/notes
+  GET - https://nlz9lkkxcb.execute-api.us-east-2.amazonaws.com/prod/notes/{id}
+  GET - https://nlz9lkkxcb.execute-api.us-east-2.amazonaws.com/prod/notes
+  PUT - https://nlz9lkkxcb.execute-api.us-east-2.amazonaws.com/prod/notes/{id}
+  DELETE - https://nlz9lkkxcb.execute-api.us-east-2.amazonaws.com/prod/notes/{id}
