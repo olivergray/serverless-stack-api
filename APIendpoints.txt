@@ -3,3 +3,4 @@
   GET - https://nlz9lkkxcb.execute-api.us-east-2.amazonaws.com/prod/notes
   PUT - https://nlz9lkkxcb.execute-api.us-east-2.amazonaws.com/prod/notes/{id}
   DELETE - https://nlz9lkkxcb.execute-api.us-east-2.amazonaws.com/prod/notes/{id}
+  POST - https://nlz9lkkxcb.execute-api.us-east-2.amazonaws.com/prod/billing
